@@ -1,0 +1,136 @@
+C-reactive protein (CRP) (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 7.116529587847253e-14;;;TimesVisited: 5291
+Albumin:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 3.75921516138078e-13;;;TimesVisited: 4964
+Glucose (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 3.054456687578977e-11;;;TimesVisited: 4103
+International Normalized Ratio (INR):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 6.523637186006681e-11;;;TimesVisited: 3955
+Weight in kg:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 1.7363519722035647e-07;;;TimesVisited: 2432
+�ge au recrutement:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 2.2453465264860029e-07;;;TimesVisited: 2383
+Lymphocyte (relative value) (LOWEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 2.391357099007507e-07;;;TimesVisited: 2371
+Asymptomatic?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 2.8891779579875987e-07;;;TimesVisited: 2335
+C-reactive protein (CRP):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 4.967752218476562e-07;;;TimesVisited: 2232
+Creatinine (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 6.297896498752564e-07;;;TimesVisited: 2187
+APTT (activated partial thromboplastin time):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 7.300794753195561e-07;;;TimesVisited: 2159
+Urea (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 8.923697105700512e-07;;;TimesVisited: 2121
+Neutrophils (relative value):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 4.910378186062658e-06;;;TimesVisited: 1800
+BMI:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 6.768403601586925e-06;;;TimesVisited: 1740
+Number of comorbidities: --- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 1.039575248262814e-05;;;TimesVisited: 1660
+Total WBC count:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 1.2684548333918855e-05;;;TimesVisited: 1623
+Total bilirubin (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 1.3314296406607973e-05;;;TimesVisited: 1614
+Neutrophil (x 10^9/L):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 1.7718366934316165e-05;;;TimesVisited: 1561
+Headache ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 2.930918661980808e-05;;;TimesVisited: 1468
+Living where?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 2.9952263608579166e-05;;;TimesVisited: 1464
+D-Dimer:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 3.4494503427739964e-05;;;TimesVisited: 1438
+Lymphocyte (relative value):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 4.21864784850845e-05;;;TimesVisited: 1401
+Sexe:--- Sex at birth:: 5.726195516475574e-05;;;TimesVisited: 1345
+Haemoglobin :--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 9.024833686621658e-05;;;TimesVisited: 1262
+Eosinophil (relative value) (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00010762768350724983;;;TimesVisited: 1230
+Glucose:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0001305548576334692;;;TimesVisited: 1195
+Loss of taste / lost of smell ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00022361469974085946;;;TimesVisited: 1098
+Living with?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0002923543070195711;;;TimesVisited: 1050
+Potassium K+ (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0002989750216085829;;;TimesVisited: 1046
+Sex at birth:--- Sexe:: 0.00039363838142503216;;;TimesVisited: 997
+Total Bilirubin:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00040034253010556853;;;TimesVisited: 994
+Does the patient have other comorbidities?--- Number of comorbidities: : 0.0004071631234496831;;;TimesVisited: 991
+Smoking status:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.000425936543659855;;;TimesVisited: 983
+Urea:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0004583467527536911;;;TimesVisited: 970
+Does the patient have other comorbidities?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0006187918174602736;;;TimesVisited: 917
+Number of comorbidities: --- Does the patient have other comorbidities?: 0.0006816095786167375;;;TimesVisited: 900
+Dementia ? --- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0007771334498312132;;;TimesVisited: 877
+Creatinine:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0008323078463172706;;;TimesVisited: 865
+Shortness of breath (Dyspnea) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0008663301237963328;;;TimesVisited: 858
+BMI:--- Weight in kg:: 0.0008864079302015604;;;TimesVisited: 854
+Sexe:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0009280065977615992;;;TimesVisited: 846
+Other chronic lung disease ? --- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0010290818765567034;;;TimesVisited: 828
+Total WBC count:--- Neutrophil (x 10^9/L):: 0.0010837882287094702;;;TimesVisited: 819
+Procalcitonin (PCT):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0011816914607089002;;;TimesVisited: 804
+Height in m:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.001209302199264184;;;TimesVisited: 800
+Cough ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.001311272230930971;;;TimesVisited: 786
+Total WBC count (HIGHEST value) --- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0013265448483832376;;;TimesVisited: 784
+Chest pain ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0013894879206877153;;;TimesVisited: 776
+Runny nose (Rhinorrhea) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0013894879206877153;;;TimesVisited: 776
+Weight in kg:--- BMI:: 0.0014810896847602395;;;TimesVisited: 765
+Sex at birth:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0015159210655839583;;;TimesVisited: 761
+Neutrophil (x 10^9/L):--- Total WBC count:: 0.0015881369925664357;;;TimesVisited: 753
+Chronic kidney disease ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0022299904046305663;;;TimesVisited: 695
+Platelets:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0022299904046305663;;;TimesVisited: 695
+Muscle aches (Myalgia) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.002351395160089642;;;TimesVisited: 686
+Neutrophil (relative value) (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.002407528459307695;;;TimesVisited: 682
+Eosinophil (x 10^9/L):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0025540130964547547;;;TimesVisited: 672
+Loss of appetite ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.002774769511504127;;;TimesVisited: 658
+Obesity ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.002824595264939944;;;TimesVisited: 655
+Anticoagulants?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0032582033140748923;;;TimesVisited: 631
+Final COVID status:--- Sexe:: 0.003606786476665902;;;TimesVisited: 614
+ALT:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.003606786476665902;;;TimesVisited: 614
+COPD (emphysema, chronic bronchitis) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00376140081754206;;;TimesVisited: 607
+Lymphocyte (x 10^9/L):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00394658968756989;;;TimesVisited: 599
+Skin rash ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.003994355161033081;;;TimesVisited: 597
+Rheumatologic disease ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.004042723645078405;;;TimesVisited: 595
+Atrial fibrillation or flutter ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.004116424660585816;;;TimesVisited: 592
+Status COVID:--- Sexe:: 0.004346056869430015;;;TimesVisited: 583
+Other immunosuppressive medications?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.0047302150453495395;;;TimesVisited: 569
+Sore throat ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.005026240465639598;;;TimesVisited: 559
+Result of the PCR test determining the participant's COVID status--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.005213106564213921;;;TimesVisited: 553
+Monocyte (relative valeur) (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.006419025351595109;;;TimesVisited: 519
+Post-partum (childbirth in the last year)?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.006498526247752601;;;TimesVisited: 517
+ACE inhibitor or Angiotensin Receptor Blocker?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.006954709239709866;;;TimesVisited: 506
+Joint pain (Arthralgia) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.007128855959070202;;;TimesVisited: 502
+Nausea / vomiting ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.007631900949992665;;;TimesVisited: 491
+Systemic corticosteroid?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.007824005172049842;;;TimesVisited: 487
+Living with?--- Living where?: 0.008326982408741523;;;TimesVisited: 477
+Fatigue ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.00864510331209789;;;TimesVisited: 471
+Wheezing or stridor ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.010309849132729698;;;TimesVisited: 443
+Diabetes ?--- Glucose (HIGHEST value): 0.010914893372693912;;;TimesVisited: 434
+Living where?--- Living with?: 0.011484558691084445;;;TimesVisited: 426
+Patient pregnant?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.012163642742006542;;;TimesVisited: 417
+Pulmonary hypertension ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.012559377259468651;;;TimesVisited: 412
+Eosinophil (relative value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.012803423729191854;;;TimesVisited: 409
+Arterial Hypertension ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.017147032761220093;;;TimesVisited: 364
+Abdominal pain ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.01905632282644698;;;TimesVisited: 348
+Glucose (HIGHEST value)--- C-reactive protein (CRP) (HIGHEST value): 0.01905632282644698;;;TimesVisited: 348
+Monocyte (x 10^9/L):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.02023116809509873;;;TimesVisited: 339
+HGO or insulin?--- Diabetes ?: 0.020502850636966996;;;TimesVisited: 337
+C-reactive protein (CRP) (HIGHEST value)--- Glucose (HIGHEST value): 0.020640186257015358;;;TimesVisited: 336
+Haemoglobin :--- Albumin:: 0.02091788764944158;;;TimesVisited: 334
+Diabetes ?--- HGO or insulin?: 0.021922555544673372;;;TimesVisited: 327
+�ge au recrutement:--- Weight in kg:: 0.022672570874791464;;;TimesVisited: 322
+Basophil (x 10^9/L):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.023610067202811114;;;TimesVisited: 316
+Loss of appetite ?--- International Normalized Ratio (INR):: 0.026146489012113694;;;TimesVisited: 301
+Urea (HIGHEST value)--- Creatinine (HIGHEST value): 0.027812419929243215;;;TimesVisited: 292
+Immunosupressed state?--- Other immunosuppressive medications?: 0.028988542349006274;;;TimesVisited: 286
+Basophil (relative value) (HIGHEST value)--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.028988542349006274;;;TimesVisited: 286
+Obesity ?--- BMI:: 0.029597327687626573;;;TimesVisited: 283
+Immunosupressed state?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.029597327687626573;;;TimesVisited: 283
+Creatinine (HIGHEST value)--- Urea (HIGHEST value): 0.030011116559304662;;;TimesVisited: 281
+Potassium K+:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03022043393065077;;;TimesVisited: 280
+Monocyte (relative value):--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03129184581241384;;;TimesVisited: 275
+Creatinine (HIGHEST value)--- C-reactive protein (CRP) (HIGHEST value): 0.03195510569383064;;;TimesVisited: 272
+Ear pain ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03263419909834653;;;TimesVisited: 269
+Diabetes ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03286415875730986;;;TimesVisited: 268
+Sodium Na+:--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03404168555849463;;;TimesVisited: 263
+Weight in kg:--- �ge au recrutement:: 0.03452596355289428;;;TimesVisited: 261
+Obesity ?--- Weight in kg:: 0.0347710175153334;;;TimesVisited: 260
+HGO or insulin?--- Glucose (HIGHEST value): 0.03526704798325864;;;TimesVisited: 258
+Heart failure ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03654256245032328;;;TimesVisited: 253
+Fever (?38.0 Celcius) ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03680389717737376;;;TimesVisited: 252
+Height in m:--- Weight in kg:: 0.037067356118477446;;;TimesVisited: 251
+Extremity weakness or numbness ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03760072928900049;;;TimesVisited: 249
+Is the participant employed as a Healthcare Worker?  --- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.03787068546671213;;;TimesVisited: 248
+Arterial Hypertension ?--- ACE inhibitor or Angiotensin Receptor Blocker?: 0.03814284976272386;;;TimesVisited: 247
+Dementia ? --- Living where?: 0.03841724379376388;;;TimesVisited: 246
+Lymphocyte (x 10^9/L):--- Lymphocyte (relative value):: 0.039537558935879735;;;TimesVisited: 242
+Urea (HIGHEST value)--- Glucose (HIGHEST value): 0.039537558935879735;;;TimesVisited: 242
+ACE inhibitor or Angiotensin Receptor Blocker?--- Arterial Hypertension ?: 0.040990829000076;;;TimesVisited: 237
+Lymphocyte (relative value) (LOWEST value)--- C-reactive protein (CRP) (HIGHEST value): 0.04189213330882069;;;TimesVisited: 234
+Coronary artery disease ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.04219760705978537;;;TimesVisited: 233
+Dementia ? --- �ge au recrutement:: 0.04250564289684444;;;TimesVisited: 232
+Chronic kidney disease ?--- Creatinine (HIGHEST value): 0.04312950535722582;;;TimesVisited: 230
+Potassium K+ (HIGHEST value)--- Urea (HIGHEST value): 0.043445385087201416;;;TimesVisited: 229
+Living where?--- �ge au recrutement:: 0.04376393312770632;;;TimesVisited: 228
+Urea (HIGHEST value)--- C-reactive protein (CRP) (HIGHEST value): 0.044409144182808946;;;TimesVisited: 226
+Confusion / altered mental status ?--- If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?: 0.04539767037313103;;;TimesVisited: 223
+�ge au recrutement:--- Living where?: 0.04573281685004171;;;TimesVisited: 222
+�ge au recrutement:--- BMI:: 0.04745217612964803;;;TimesVisited: 217
+BMI:--- �ge au recrutement:: 0.0481608572812503;;;TimesVisited: 215
+Loss of taste / lost of smell ?--- Albumin:: 0.0481608572812503;;;TimesVisited: 215
+Arterial Hypertension ?--- �ge au recrutement:: 0.04851981215516932;;;TimesVisited: 214
+Procalcitonin (PCT):--- C-reactive protein (CRP):: 0.04851981215516932;;;TimesVisited: 214
+International Normalized Ratio (INR):--- Albumin:: 0.04888188710671815;;;TimesVisited: 213
