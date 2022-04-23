@@ -1,0 +1,138 @@
+,Left,Right
+0,C-reactive protein (CRP) (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+1,C-reactive protein (CRP) (HIGHEST value),Glucose (HIGHEST value)
+2,Albumin:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+3,Glucose (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+4,Glucose (HIGHEST value),C-reactive protein (CRP) (HIGHEST value)
+5,International Normalized Ratio (INR):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+6,International Normalized Ratio (INR):,Albumin:
+7,�ge au recrutement:,�ge au recrutement:
+8,�ge au recrutement:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+9,�ge au recrutement:,Weight in kg:
+10,�ge au recrutement:,Living where?
+11,�ge au recrutement:,BMI:
+12,Weight in kg:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+13,Weight in kg:,BMI:
+14,Weight in kg:,�ge au recrutement:
+15,Lymphocyte (relative value) (LOWEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+16,Lymphocyte (relative value) (LOWEST value),C-reactive protein (CRP) (HIGHEST value)
+17,Asymptomatic?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+18,C-reactive protein (CRP):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+19,Creatinine (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+20,Creatinine (HIGHEST value),Urea (HIGHEST value)
+21,Creatinine (HIGHEST value),C-reactive protein (CRP) (HIGHEST value)
+22,APTT (activated partial thromboplastin time):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+23,Urea (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+24,Urea (HIGHEST value),Creatinine (HIGHEST value)
+25,Urea (HIGHEST value),Glucose (HIGHEST value)
+26,Urea (HIGHEST value),C-reactive protein (CRP) (HIGHEST value)
+27,Neutrophils (relative value):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+28,BMI:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+29,BMI:,Weight in kg:
+30,BMI:,�ge au recrutement:
+31,Number of comorbidities: ,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+32,Number of comorbidities: ,Does the patient have other comorbidities?
+33,Total WBC count:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+34,Total WBC count:,Neutrophil (x 10^9/L):
+35,Total bilirubin (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+36,Neutrophil (x 10^9/L):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+37,Neutrophil (x 10^9/L):,Total WBC count:
+38,Headache ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+39,Living where?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+40,Living where?,Living with?
+41,Living where?,�ge au recrutement:
+42,D-Dimer:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+43,Lymphocyte (relative value):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+44,Sexe:,Sex at birth:
+45,Sexe:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+46,Sex at birth:,Sexe:
+47,Sex at birth:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+48,Haemoglobin :,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+49,Haemoglobin :,Albumin:
+50,Eosinophil (relative value) (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+51,Glucose:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+52,Loss of taste / lost of smell ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+53,Loss of taste / lost of smell ?,Albumin:
+54,Living with?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+55,Living with?,Living where?
+56,Potassium K+ (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+57,Potassium K+ (HIGHEST value),Urea (HIGHEST value)
+58,Total Bilirubin:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+59,Does the patient have other comorbidities?,Number of comorbidities: 
+60,Does the patient have other comorbidities?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+61,Smoking status:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+62,Urea:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+63,Dementia ? ,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+64,Dementia ? ,Living where?
+65,Dementia ? ,�ge au recrutement:
+66,Creatinine:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+67,Shortness of breath (Dyspnea) ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+68,Other chronic lung disease ? ,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+69,Procalcitonin (PCT):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+70,Procalcitonin (PCT):,C-reactive protein (CRP):
+71,Height in m:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+72,Height in m:,Weight in kg:
+73,Cough ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+74,Total WBC count (HIGHEST value) ,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+75,Chest pain ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+76,Runny nose (Rhinorrhea) ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+77,Chronic kidney disease ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+78,Chronic kidney disease ?,Creatinine (HIGHEST value)
+79,Platelets:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+80,Muscle aches (Myalgia) ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+81,Neutrophil (relative value) (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+82,Eosinophil (x 10^9/L):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+83,Loss of appetite ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+84,Loss of appetite ?,International Normalized Ratio (INR):
+85,Obesity ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+86,Obesity ?,BMI:
+87,Obesity ?,Weight in kg:
+88,Anticoagulants?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+89,Final COVID status:,Sexe:
+90,ALT:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+91,"COPD (emphysema, chronic bronchitis) ?","If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+92,Lymphocyte (x 10^9/L):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+93,Lymphocyte (x 10^9/L):,Lymphocyte (relative value):
+94,Skin rash ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+95,Rheumatologic disease ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+96,Atrial fibrillation or flutter ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+97,Status COVID:,Sexe:
+98,Other immunosuppressive medications?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+99,Sore throat ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+100,Result of the PCR test determining the participant's COVID status,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+101,Monocyte (relative valeur) (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+102,Post-partum (childbirth in the last year)?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+103,ACE inhibitor or Angiotensin Receptor Blocker?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+104,ACE inhibitor or Angiotensin Receptor Blocker?,Arterial Hypertension ?
+105,Joint pain (Arthralgia) ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+106,Nausea / vomiting ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+107,Systemic corticosteroid?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+108,Fatigue ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+109,Wheezing or stridor ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+110,Diabetes ?,Glucose (HIGHEST value)
+111,Diabetes ?,HGO or insulin?
+112,Diabetes ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+113,Patient pregnant?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+114,Pulmonary hypertension ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+115,Eosinophil (relative value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+116,Arterial Hypertension ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+117,Arterial Hypertension ?,ACE inhibitor or Angiotensin Receptor Blocker?
+118,Arterial Hypertension ?,�ge au recrutement:
+119,Abdominal pain ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+120,Monocyte (x 10^9/L):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+121,HGO or insulin?,Diabetes ?
+122,HGO or insulin?,Glucose (HIGHEST value)
+123,Basophil (x 10^9/L):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+124,Immunosupressed state?,Other immunosuppressive medications?
+125,Immunosupressed state?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+126,Basophil (relative value) (HIGHEST value),"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+127,Potassium K+:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+128,Monocyte (relative value):,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+129,Ear pain ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+130,Sodium Na+:,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+131,Heart failure ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+132,Fever (?38.0 Celcius) ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+133,Extremity weakness or numbness ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+134,Is the participant employed as a Healthcare Worker?  ,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+135,Coronary artery disease ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"
+136,Confusion / altered mental status ?,"If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?"

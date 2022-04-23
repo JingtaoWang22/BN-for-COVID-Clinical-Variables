@@ -1,0 +1,163 @@
+C-reactive protein (CRP) (HIGHEST value)---BMI:
+If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?---C-reactive protein (CRP):
+Albumin:---Glucose (HIGHEST value)Glucose (HIGHEST value)---D-Dimer:
+Glucose (HIGHEST value)---Atrial fibrillation or flutter ?International Normalized Ratio (INR):---Confusion / altered mental status ?
+�ge au recrutement:---Glucose:
+Lymphocyte (relative value) (LOWEST value)---Joint pain (Arthralgia) ?
+Lymphocyte (relative value) (LOWEST value)---Heart failure ?
+Asymptomatic?---International Normalized Ratio (INR):
+Asymptomatic?---Lymphocyte (relative value):
+Asymptomatic?---Cough ?
+Asymptomatic?---ALT:
+C-reactive protein (CRP):---Number of comorbidities:
+C-reactive protein (CRP):---Eosinophil (relative value) (HIGHEST value)
+C-reactive protein (CRP):---Living with?
+C-reactive protein (CRP):---Basophil (x 10^9/L):
+Creatinine (HIGHEST value)---Fever (?38.0 Celcius) ?
+APTT (activated partial thromboplastin time):---Sex at birth:
+APTT (activated partial thromboplastin time):---Runny nose (Rhinorrhea) ?
+Urea (HIGHEST value)---Total WBC count:
+Urea (HIGHEST value)---Neutrophil (x 10^9/L):
+Urea (HIGHEST value)---Sexe:
+Neutrophils (relative value):---Does the patient have other comorbidities?
+Neutrophils (relative value):---Eosinophil (x 10^9/L):
+BMI:---Total WBC count (HIGHEST value)
+BMI:---Other immunosuppressive medications?
+Number of comorbidities: ---Albumin:
+Total WBC count:---Creatinine (HIGHEST value)
+Total WBC count:---APTT (activated partial thromboplastin time):
+Total bilirubin (HIGHEST value)---C-reactive protein (CRP) (HIGHEST value)
+Total bilirubin (HIGHEST value)---�ge au recrutement:
+Total bilirubin (HIGHEST value)---Muscle aches (Myalgia) ?
+Neutrophil (x 10^9/L):---Lymphocyte (relative value) (LOWEST value)
+Neutrophil (x 10^9/L):---Potassium K+ (HIGHEST value)
+Neutrophil (x 10^9/L):---Atrial fibrillation or flutter ?
+Neutrophil (x 10^9/L):---Confusion / altered mental status ?
+Headache ?---Eosinophil (x 10^9/L):
+D-Dimer:---Asymptomatic?
+D-Dimer:---Other chronic lung disease ?
+D-Dimer:---Skin rash ?
+D-Dimer:---HGO or insulin?
+Lymphocyte (relative value):---Fever (?38.0 Celcius) ?
+Sexe:---Glucose (HIGHEST value)
+Sexe:---Neutrophil (x 10^9/L):
+Sex at birth:---Loss of taste / lost of smell ?
+Sex at birth:---Rheumatologic disease ?
+Haemoglobin :---Wheezing or stridor ?
+Haemoglobin :---Diabetes ?
+Eosinophil (relative value) (HIGHEST value)---Albumin:
+Eosinophil (relative value) (HIGHEST value)---Status COVID:
+Loss of taste / lost of smell ?---Potassium K+ (HIGHEST value)
+Loss of taste / lost of smell ?---Anticoagulants?
+Loss of taste / lost of smell ?---Ear pain ?
+Living with?---Chronic kidney disease ?
+Living with?---Lymphocyte (x 10^9/L):
+Living with?---Confusion / altered mental status ?
+Potassium K+ (HIGHEST value)---Pulmonary hypertension ?
+Total Bilirubin:---Skin rash ?
+Total Bilirubin:---Rheumatologic disease ?
+Urea:---Height in m:
+Urea:---Cough ?
+Dementia ? ---Total bilirubin (HIGHEST value)
+Creatinine:---Glucose:
+Creatinine:---Post-partum (childbirth in the last year)?
+Shortness of breath (Dyspnea) ?---Total WBC count:
+Shortness of breath (Dyspnea) ?---Diabetes ?
+Shortness of breath (Dyspnea) ?---Basophil (relative value) (HIGHEST value)
+Other chronic lung disease ? ---C-reactive protein (CRP) (HIGHEST value)
+Other chronic lung disease ? ---BMI:
+Height in m:---ACE inhibitor or Angiotensin Receptor Blocker?
+Height in m:---Extremity weakness or numbness ?
+Cough ?---COPD (emphysema, chronic bronchitis) ?
+Total WBC count (HIGHEST value) ---Glucose:
+Total WBC count (HIGHEST value) ---Procalcitonin (PCT):
+Total WBC count (HIGHEST value) ---Post-partum (childbirth in the last year)?
+Total WBC count (HIGHEST value) ---ACE inhibitor or Angiotensin Receptor Blocker?
+Runny nose (Rhinorrhea) ?---Asymptomatic?
+Runny nose (Rhinorrhea) ?---Eosinophil (relative value) (HIGHEST value)
+Runny nose (Rhinorrhea) ?---Smoking status:
+Runny nose (Rhinorrhea) ?---Height in m:
+Chronic kidney disease ?---Lymphocyte (relative value) (LOWEST value)
+Chronic kidney disease ?---Joint pain (Arthralgia) ?
+Platelets:---Urea (HIGHEST value)
+Platelets:---Monocyte (relative value):
+Muscle aches (Myalgia) ?---Smoking status:
+Neutrophil (relative value) (HIGHEST value)---Other immunosuppressive medications?
+Eosinophil (x 10^9/L):---Lymphocyte (relative value) (LOWEST value)
+Eosinophil (x 10^9/L):---Procalcitonin (PCT):
+Eosinophil (x 10^9/L):---Fever (?38.0 Celcius) ?
+Eosinophil (x 10^9/L):---Is the participant employed as a Healthcare Worker?  
+Loss of appetite ?---Does the patient have other comorbidities?
+Loss of appetite ?---Anticoagulants?
+Loss of appetite ?---Monocyte (x 10^9/L):
+Loss of appetite ?---Coronary artery disease ?
+Obesity ?---Potassium K+ (HIGHEST value)
+Obesity ?---Sore throat ?
+Anticoagulants?---Skin rash ?
+Final COVID status:---If a screening test for SARS-CoV-2 by PCR was performed, what is the most severe severity level (according to WHO) achieved?
+Final COVID status:---Total Bilirubin:
+Final COVID status:---Nausea / vomiting ?
+ALT:---Height in m:
+ALT:---COPD (emphysema, chronic bronchitis) ?
+Lymphocyte (x 10^9/L):---Loss of appetite ?
+Lymphocyte (x 10^9/L):---Eosinophil (relative value)
+Lymphocyte (x 10^9/L):---Arterial Hypertension ?
+Skin rash ?---C-reactive protein (CRP) (HIGHEST value)
+Skin rash ?---International Normalized Ratio (INR):
+Skin rash ?---Total bilirubin (HIGHEST value)
+Skin rash ?---Eosinophil (x 10^9/L):
+Skin rash ?---Monocyte (relative valeur) (HIGHEST value)
+Rheumatologic disease ?---Skin rash ?
+Atrial fibrillation or flutter ?---Obesity ?
+Atrial fibrillation or flutter ?---Sore throat ?
+Atrial fibrillation or flutter ?---Ear pain ?
+Status COVID:---Ear pain ?
+Sore throat ?---International Normalized Ratio (INR):
+Sore throat ?---Neutrophils (relative value):
+Sore throat ?---Lymphocyte (relative value):
+Sore throat ?---Sodium Na+:
+Result of the PCR test determining the participant's COVID status---Eosinophil (x 10^9/L):
+Result of the PCR test determining the participant's COVID status---Diabetes ?
+Monocyte (relative valeur) (HIGHEST value)---Chest pain ?
+Monocyte (relative valeur) (HIGHEST value)---Abdominal pain ?
+Post-partum (childbirth in the last year)?---Coronary artery disease ?
+ACE inhibitor or Angiotensin Receptor Blocker?---Confusion / altered mental status ?
+Nausea / vomiting ?---Total Bilirubin:
+Nausea / vomiting ?---Neutrophil (relative value) (HIGHEST value)
+Nausea / vomiting ?---COPD (emphysema, chronic bronchitis) ?
+Nausea / vomiting ?---ACE inhibitor or Angiotensin Receptor Blocker?
+Systemic corticosteroid?---Result of the PCR test determining the participant's COVID status
+Systemic corticosteroid?---Potassium K+:
+Fatigue ?---Sex at birth:
+Fatigue ?---Haemoglobin :
+Wheezing or stridor ?---Rheumatologic disease ?
+Diabetes ?---Arterial Hypertension ?
+Patient pregnant?---Sex at birth:
+Patient pregnant?---Urea:
+Patient pregnant?---Fatigue ?
+Patient pregnant?---Fever (?38.0 Celcius) ?
+Pulmonary hypertension ?---Total WBC count (HIGHEST value) 
+Pulmonary hypertension ?---Chest pain ?
+Pulmonary hypertension ?---Abdominal pain ?
+Eosinophil (relative value)---�ge au recrutement:
+Eosinophil (relative value)---Total bilirubin (HIGHEST value)
+Eosinophil (relative value)---Sex at birth:
+Eosinophil (relative value)---Eosinophil (x 10^9/L):
+Eosinophil (relative value)---Pulmonary hypertension ?
+Arterial Hypertension ?---Smoking status:
+Abdominal pain ?---Lymphocyte (relative value):
+Abdominal pain ?---Total WBC count (HIGHEST value) 
+Monocyte (x 10^9/L):---ALT:
+HGO or insulin?---Smoking status
+HGO or insulin?---Arterial Hypertension ?
+Basophil (x 10^9/L):---Obesity ?
+Basophil (x 10^9/L):---Systemic corticosteroid?
+Basophil (relative value) (HIGHEST value)---Headache ?
+Potassium K+:---Monocyte (relative value):
+Monocyte (relative value):---Dementia ?
+Monocyte (relative value):---Patient pregnant?
+Fever (?38.0 Celcius) ?---Cough ?
+Fever (?38.0 Celcius) ?---Diabetes ?
+Is the participant employed as a Healthcare Worker?  ---BMI:
+Is the participant employed as a Healthcare Worker?  ---Arterial Hypertension ?
+Coronary artery disease ?---Monocyte (x 10^9/L):

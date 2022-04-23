@@ -1,0 +1,26 @@
+Sexe:---Sex at birth:
+Sex at birth:---Sexe:
+Does the patient have other comorbidities?---Number of comorbidities: 
+Number of comorbidities: ---Does the patient have other comorbidities?
+BMI:---Weight in kg:
+Weight in kg:---BMI:
+Total WBC count:---Neutrophil (x 10^9/L):
+Neutrophil (x 10^9/L):---Total WBC count:
+Living with?---Living where?
+Living where?---Living with?
+Glucose (HIGHEST value)---C-reactive protein (CRP) (HIGHEST value)
+C-reactive protein (CRP) (HIGHEST value)---Glucose (HIGHEST value)
+HGO or insulin?---Diabetes ?
+Diabetes ?---HGO or insulin?
+�ge au recrutement:---Weight in kg:
+Weight in kg:---�ge au recrutement:
+Urea (HIGHEST value)---Creatinine (HIGHEST value)
+Creatinine (HIGHEST value)---Urea (HIGHEST value)
+Obesity ?---Weight in kg:
+HGO or insulin?---Glucose (HIGHEST value)
+Arterial Hypertension ?---ACE inhibitor or Angiotensin Receptor Blocker?
+ACE inhibitor or Angiotensin Receptor Blocker?---Arterial Hypertension ?
+Living where?---�ge au recrutement:
+�ge au recrutement:---Living where?
+�ge au recrutement:---BMI:
+BMI:---�ge au recrutement:

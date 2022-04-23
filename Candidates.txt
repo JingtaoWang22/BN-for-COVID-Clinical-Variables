@@ -1,0 +1,26 @@
+Sexe:--- Sex at birth:: 5.726195516475574e-05;;;TimesVisited: 1345
+Sex at birth:--- Sexe:: 0.00039363838142503216;;;TimesVisited: 997
+Does the patient have other comorbidities?--- Number of comorbidities: : 0.0004071631234496831;;;TimesVisited: 991
+Number of comorbidities: --- Does the patient have other comorbidities?: 0.0006816095786167375;;;TimesVisited: 900
+BMI:--- Weight in kg:: 0.0008864079302015604;;;TimesVisited: 854
+Weight in kg:--- BMI:: 0.0014810896847602395;;;TimesVisited: 765
+Total WBC count:--- Neutrophil (x 10^9/L):: 0.0010837882287094702;;;TimesVisited: 819
+Neutrophil (x 10^9/L):--- Total WBC count:: 0.0015881369925664357;;;TimesVisited: 753
+Living with?--- Living where?: 0.008326982408741523;;;TimesVisited: 477
+Living where?--- Living with?: 0.011484558691084445;;;TimesVisited: 426
+Glucose (HIGHEST value)--- C-reactive protein (CRP) (HIGHEST value): 0.01905632282644698;;;TimesVisited: 348
+C-reactive protein (CRP) (HIGHEST value)--- Glucose (HIGHEST value): 0.020640186257015358;;;TimesVisited: 336
+HGO or insulin?--- Diabetes ?: 0.020502850636966996;;;TimesVisited: 337
+Diabetes ?--- HGO or insulin?: 0.021922555544673372;;;TimesVisited: 327
+�ge au recrutement:--- Weight in kg:: 0.022672570874791464;;;TimesVisited: 322
+Weight in kg:--- �ge au recrutement:: 0.03452596355289428;;;TimesVisited: 261
+Urea (HIGHEST value)--- Creatinine (HIGHEST value): 0.027812419929243215;;;TimesVisited: 292
+Creatinine (HIGHEST value)--- Urea (HIGHEST value): 0.030011116559304662;;;TimesVisited: 281
+Obesity ?--- Weight in kg:: 0.0347710175153334;;;TimesVisited: 260
+HGO or insulin?--- Glucose (HIGHEST value): 0.03526704798325864;;;TimesVisited: 258
+Arterial Hypertension ?--- ACE inhibitor or Angiotensin Receptor Blocker?: 0.03814284976272386;;;TimesVisited: 247
+ACE inhibitor or Angiotensin Receptor Blocker?--- Arterial Hypertension ?: 0.040990829000076;;;TimesVisited: 237
+Living where?--- �ge au recrutement:: 0.04376393312770632;;;TimesVisited: 228
+�ge au recrutement:--- Living where?: 0.04573281685004171;;;TimesVisited: 222
+�ge au recrutement:--- BMI:: 0.04745217612964803;;;TimesVisited: 217
+BMI:--- �ge au recrutement:: 0.0481608572812503;;;TimesVisited: 215
